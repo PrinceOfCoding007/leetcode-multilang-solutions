@@ -1,2 +1,4 @@
-Date,Problem,Difficulty,Python,Java,CSharp,Notes,Link
-07-10-2025,Container With Most Water,Medium,Done,Done,Done,Practiced two-pointer,https://leetcode.com/problems/container-with-most-water/
+Date,Problem,Topic,Difficulty,Python,Java,CSharp,Companies,TimeTaken,Notes,Link
+2025-10-07,Container With Most Water,Two Pointer,Medium,Done,Done,Done,Amazon;Google,20,Practiced two-pointer,https://leetcode.com/problems/container-with-most-water/
+2025-10-08,Two Sum,HashMap,Easy,Done,Done,Done,Microsoft,5,Good start,https://leetcode.com/problems/two-sum/
+2025-10-09,Trapping Rain Water,Two Pointer,Hard,Done,Not Done,Not Done,Amazon,40,Next,https://leetcode.com/problems/trapping-rain-water/
