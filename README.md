@@ -92,23 +92,3 @@ Feedback, suggestions, and contributions are welcome.
 Made with ❤️ using Python, Plotly, and Jupyter Notebook
 
 
----
-
-# **Adding Images to Your README**
-
-1. Create a folder in your repo called `images/`.  
-2. Add screenshots or images there, for example:  
-
-
-
-LeetCode-Tracker/
-│
-├── images/
-│ ├── daily_trend.png
-│ ├── topic_analysis.png
-│ └── company_analysis.png
-
-
-3. In your README, reference them like this:
-
-
